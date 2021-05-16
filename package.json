@@ -1,5 +1,5 @@
 {
-  "name": "calculatepricevat",
+  "name": "calculate_salary_worker",
   "version": "1.0.0",
   "description": "Calculate the net salary of a worker",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rwkama1/Calculate_VAT"
+    "url": "https://github.com/rwkama1/calculate_net_salary_worker"
   },
  
   "keywords": ["js","javascript","vat"],
